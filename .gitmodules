@@ -4,3 +4,6 @@
 [submodule "viz/water-rationing"]
 	path = viz/water-rationing
 	url = https://github.com/infographicstw/water-rationing-visualizer.git
+[submodule "earthquake-visualizer"]
+	path = viz/earthquake
+	url = http://github.com/infographicstw/earthquake-visualizer
