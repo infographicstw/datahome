@@ -7,3 +7,6 @@
 [submodule "viz/earthquake"]
 	path = viz/earthquake
 	url = https://github.com/infographicstw/earthquake-visualizer.git
+[submodule "viz/global-earthquake"]
+	path = viz/global-earthquake
+	url = https://github.com/infographicstw/global-earthquake.git
