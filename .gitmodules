@@ -10,3 +10,6 @@
 [submodule "viz/global-earthquake"]
 	path = viz/global-earthquake
 	url = https://github.com/infographicstw/global-earthquake.git
+[submodule "viz/keyword-coloring"]
+	path = viz/keyword-coloring
+	url = https://github.com/infographicstw/keyword-coloring.git
