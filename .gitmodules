@@ -13,3 +13,6 @@
 [submodule "viz/keyword-coloring"]
 	path = viz/keyword-coloring
 	url = https://github.com/infographicstw/keyword-coloring.git
+[submodule "viz/color-party-disaster"]
+	path = viz/color-party-disaster
+	url = git@github-info:infographicstw/color-party-disaster
