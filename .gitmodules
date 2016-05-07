@@ -16,3 +16,7 @@
 [submodule "viz/color-party-disaster"]
 	path = viz/color-party-disaster
 	url = https://github.com/infographicstw/color-party-disaster.git
+[submodule "viz/twstat"]
+	path = viz/twstat
+	url = https://github.com/infographicstw/twstat
+	branch = gh-pages
