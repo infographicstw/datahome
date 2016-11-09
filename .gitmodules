@@ -20,3 +20,6 @@
 	path = viz/twstat
 	url = https://github.com/infographicstw/twstat
 	branch = gh-pages
+[submodule "viz/twhextile"]
+	path = viz/twhextile
+	url = https://github.com/infographicstw/twhextile.git
