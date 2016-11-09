@@ -22,4 +22,5 @@
 	branch = gh-pages
 [submodule "viz/twhextile"]
 	path = viz/twhextile
-	url = https://github.com/infographicstw/twhextile
+	url = https://github.com/infographicstw/twhextile.git
+	branch = gh-pages
