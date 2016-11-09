@@ -19,3 +19,6 @@
 [submodule "viz/twstat"]
 	path = viz/twstat
 	url = https://github.com/infographicstw/twstat
+[submodule "viz/twhextile"]
+	path = viz/twhextile
+	url = https://github.com/infographicstw/twhextile
