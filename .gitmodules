@@ -1,3 +1,6 @@
 [submodule "viz/reservoir"]
 	path = viz/reservoir
 	url = https://github.com/infographicstw/reservoir-visualizer.git
+[submodule "viz/water-rationing"]
+	path = viz/water-rationing
+	url = https://github.com/infographicstw/water-rationing-visualizer
